@@ -1,5 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/pm36751cem8dnpo3?svg=true)](https://ci.appveyor.com/project/Sergei37964/autotestingdz5-2-xuat2)
+# Card Delivery Autotests
 
-20 : x 
+[![Build status](https://ci.appveyor.com/api/projects/status/pm36751cem8dnpo3?svg=true)](https://ci.appveyor.com/project/vzelenkova/autotestingdz5-2-xuat2)
 
-3600 : y
+* время, затраченное на ручное тестирование (минут): 120;
+* время, затраченное на автоматизацию (минут): 90.
